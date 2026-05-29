@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @alejandrommingo
-- 👀 I’m interested in pychological methods, statistics and computer science
-- 🌱 I’m currently learning quantum computing and quantum probability models
-- 💞️ I’m looking to collaborate on everything that relates psychological processes with quantum probability theory
-- 📫 How to reach me: alejandro.martinez@uam.es
+- 👋 Hi, I’m @alejandrommingo, a professor in the Department of Methodology in Behavioural Sciences at UNED, Spain.
+- 👀 I’m interested in psychological methods, statistics, computational linguistics, quantum cognition and computer science.
+- 🌱 I’m currently learning about quantum computing and quantum probability models.
+- 💞️ I’m interested in collaborating on projects connecting psychological processes with quantum probability theory and computer science.
+- 📫 How to reach me: a.martinez.m@psi.uned.es
 
-<!---
-alejandrommingo/alejandrommingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
